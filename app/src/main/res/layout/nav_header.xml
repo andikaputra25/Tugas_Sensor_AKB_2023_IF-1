@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:gravity="bottom"
+    android:padding="10dp"
+    android:background="@drawable/headerbkg"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <ImageView
+        android:layout_width="97dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="THE BARBEQUE"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="thebarbeq@android.apps.com"
+        android:textColor="@color/black"
+        android:fontFamily="@font/poppins_italic"
+        android:textSize="14sp"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>

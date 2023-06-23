@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">THE BARBEQUE</string>
+
+    //Headings
+    <string name="heading_one">Nikmati</string>
+    <string name="heading_two">Temukan Lokasi</string>
+    <string name="heading_three">Jelajahi Tempat Makan Favorit</string>
+    <string name="heading_fourth">Mulai</string>
+
+    //Description
+    <string name="desc_one">Nikmati fitur utama aplikasi untuk membantu kamu menemukan restaurant terdekat</string>
+    <string name="desc_two">Temukan lokasi restaurant atau tempat makan terdekat, dari lokasi anda sekarang</string>
+    <string name="desc_three">Memudahkan untuk menjelajahi kapanpun dan dimanapun </string>
+    <string name="desc_fourth">Ayo coba sekarang</string>
+
+
+    //Description About
+    <string name="desc_about">The BARBEQUE merupakan aplikasi untuk membantu kamu menemukan
+        tempat makan atau restaurant terdekat di lokasi terdekat anda, Dengan fitur GPS / Map
+        membantu untuk memudahkan arah tempat makan yang ingin anda kunjungi.
+    </string>
+
+    //Navigasi Drawer
+    <string name="open_nav">Open Navigasi Drawer</string>
+    <string name="close_nav">Close Navigasi Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
